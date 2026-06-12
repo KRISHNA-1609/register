@@ -4,6 +4,6 @@
     "email": "krishnashonka@gmail.com"
   },
   "records": {
-    "CNAME": "krishnas-alive-portfolio.vercel.app"
+   "A": "216.198.79.1"
   }
 }
